@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e184ffd4.css",
+    "main.js": "/static/js/main.be50f749.js",
+    "static/media/form-handler.png": "/static/media/form-handler.40f05fda6f0c598cd8bd.png",
+    "static/media/weather-app.png": "/static/media/weather-app.6e2f07c343681bfe8bca.png",
+    "static/media/vaccine.png": "/static/media/vaccine.77c70d92f1437fdcdb62.png",
+    "static/media/library.png": "/static/media/library.6840ee0172f7c5cada14.png",
+    "static/media/blood-donation.png": "/static/media/blood-donation.274491b7ceee1c4015e2.png",
+    "static/media/react.png": "/static/media/react.53dc6bc56f1c8aa7f441.png",
+    "static/media/about_head.svg": "/static/media/about_head.91b8577197e83f8f7a19e46c2a7375ab.svg",
+    "static/media/home2.svg": "/static/media/home2.065a81221ad592b63931143c9c039001.svg",
+    "static/media/about_stack.svg": "/static/media/about_stack.7cf275ff6124bcda7afacc341302c7ec.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.55003af2c629675b0af175687c6970fc.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.502737ea1f44b9be4170cafd2bace4e7.svg",
+    "static/media/python.svg": "/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/java.svg": "/static/media/java.3c5854fce4aa30ad19d569c45d5ce874.svg",
+    "static/media/javascript.svg": "/static/media/javascript.fa3ecb79b97703729d7a0af06b667c22.svg",
+    "static/media/ejs.svg": "/static/media/ejs.41ee8cc4855f6bcefe1727ed3d9ace77.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
+    "static/media/git.svg": "/static/media/git.3a71a2d03b1205894fb1d6dfcfc788a3.svg",
+    "index.html": "/index.html",
+    "static/media/expressjs.svg": "/static/media/expressjs.632d3c32e6c8f71f7f7faf4fb71b945b.svg",
+    "static/media/css.svg": "/static/media/css.6ec1697a406483c72ccf775894d16777.svg",
+    "static/media/external-link-logo.svg": "/static/media/external-link-logo.5456e38e639d541417cbfca49dd9431f.svg",
+    "static/media/materialui.svg": "/static/media/materialui.fd510ed8518b192069590b04e2e6348a.svg",
+    "main.e184ffd4.css.map": "/static/css/main.e184ffd4.css.map",
+    "main.be50f749.js.map": "/static/js/main.be50f749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e184ffd4.css",
+    "static/js/main.be50f749.js"
+  ]
+}
