@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e184ffd4.css",
-    "main.js": "/static/js/main.be50f749.js",
+    "main.css": "/static/css/main.426494e8.css",
+    "main.js": "/static/js/main.46d57bd8.js",
     "static/media/form-handler.png": "/static/media/form-handler.40f05fda6f0c598cd8bd.png",
     "static/media/weather-app.png": "/static/media/weather-app.6e2f07c343681bfe8bca.png",
     "static/media/vaccine.png": "/static/media/vaccine.77c70d92f1437fdcdb62.png",
@@ -24,11 +24,11 @@
     "static/media/css.svg": "/static/media/css.6ec1697a406483c72ccf775894d16777.svg",
     "static/media/external-link-logo.svg": "/static/media/external-link-logo.5456e38e639d541417cbfca49dd9431f.svg",
     "static/media/materialui.svg": "/static/media/materialui.fd510ed8518b192069590b04e2e6348a.svg",
-    "main.e184ffd4.css.map": "/static/css/main.e184ffd4.css.map",
-    "main.be50f749.js.map": "/static/js/main.be50f749.js.map"
+    "main.426494e8.css.map": "/static/css/main.426494e8.css.map",
+    "main.46d57bd8.js.map": "/static/js/main.46d57bd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e184ffd4.css",
-    "static/js/main.be50f749.js"
+    "static/css/main.426494e8.css",
+    "static/js/main.46d57bd8.js"
   ]
 }
